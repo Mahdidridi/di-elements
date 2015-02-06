@@ -5,6 +5,7 @@
   "dependencies": {
     "polymer": "Polymer/polymer#master",
     "di-form": "DifferentialWebComponents/di-form#master",
-    "di-button": "DifferentialWebComponents/di-button#master"
+    "di-button": "DifferentialWebComponents/di-button#master",
+    "di-icons": "DifferentialWebComponents/di-icons#master"
   }
 }
